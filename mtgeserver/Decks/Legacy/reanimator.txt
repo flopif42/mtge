@@ -1,0 +1,28 @@
+--14 LANDS
+2 Badlands
+2 Bloodstained Mire
+1 Marsh Flats
+4 Polluted Delta
+1 Scrubland
+3 Swamp
+1 Verdant Catacombs
+
+--10 CREATURES
+1 Ashen Rider
+4 Chancellor of the Annex
+4 Griselbrand
+1 Tidespout Tyrant
+	
+--28 INSTANTS and SORC.
+4 Cabal Therapy
+4 Dark Ritual
+4 Entomb
+4 Exhume
+4 Faithless Looting
+4 Reanimate
+1 Thoughtseize
+3 Unmask
+
+--8 OTHER SPELLS
+4 Animate Dead
+4 Lotus Petal

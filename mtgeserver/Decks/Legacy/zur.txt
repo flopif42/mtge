@@ -1,0 +1,27 @@
+4 Tundra
+4 Underground Sea
+1 Scrubland
+4 Polluted Delta
+4 Flooded Strand
+1 Karakas
+4 Island
+2 Hallowed Fountain
+4 Zur the Enchanter
+1 Solitary Confinement
+1 Glorious Anthem
+1 Seal of Cleansing
+1 Seal of Removal
+1 Bitterblossom
+1 Phyrexian Arena
+1 Oath of Liliana
+1 Recurring Nightmare
+2 Dromar's Charm
+1 Vindicate
+3 Wrath of God
+1 Vampiric Tutor
+1 Demonic Tutor
+1 Ancestral Recall
+3 Enlightened Tutor
+4 Brainstorm
+4 Preordain
+4 Counterspell

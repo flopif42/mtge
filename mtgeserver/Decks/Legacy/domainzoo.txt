@@ -1,0 +1,33 @@
+-- Creature (23)
+1 Birds of Paradise
+4 Noble Hierarch
+4 Tarmogoyf
+4 Wild Nacatl
+4 Geist of Saint Traft
+2 Qasali Pridemage
+4 Siege Rhino
+
+-- Sorcery (4)
+4 Tribal Flames
+
+-- Instant (11)
+-- 3 Path to Exile
+3 Swords to Plowshares
+4 Lightning Bolt
+2 Abrupt Decay
+-- 2 Bant Charm
+2 Giant Growth
+
+-- Land (22)
+2 Bloodstained Mire
+1 Tropical Island
+4 Flooded Strand
+1 Forest
+1 Scrubland
+1 Plains
+1 Plateau
+1 Taiga
+1 Savannah
+4 Verdant Catacombs
+1 Underground Sea
+4 Windswept Heath

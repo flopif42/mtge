@@ -1,0 +1,31 @@
+------------------------------------------
+-- Daniel Fournier
+-- Top 8 : 1/4 finalist
+------------------------------------------
+--26 LANDS
+4 Aether Hub
+4 Inspiring Vantage
+6 Island
+2 Needle Spires
+2 Plains
+3 Port Town
+4 Spirebluff Canal
+1 Wandering Fumarole
+
+-- 7 CREATURES
+4 Felidar Guardian
+3 Torrential Gearhulk
+
+-- 23 INSTANTS and SORC.
+4 Anticipate
+2 Disallow
+1 Fumigate
+4 Glimmer of Genius
+4 Harnessed Lightning
+1 Horribly Awry
+2 Immolating Glare
+3 Negate
+2 Shock
+
+-- 4 OTHER SPELLS
+4 Saheeli Rai

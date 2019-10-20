@@ -1,0 +1,25 @@
+-- Ryan Hare
+-- GP Winner
+
+-- 24 LANDS
+4 Blooming Marsh
+9 Forest
+4 Hissing Quagmire
+7 Swamp
+
+-- 21 CREATURES
+2 Catacomb Sifter
+3 Rishkar, Peema Renegade
+4 Sylvan Advocate
+4 Verdurous Gearhulk
+4 Walking Ballista
+4 Winding Constrictor
+
+-- 7 INSTANTS and SORC.
+4 Fatal Push
+3 Grasp of Darkness
+
+-- 8 OTHER SPELLS
+1 Aethersphere Harvester
+3 Nissa, Voice of Zendikar
+4 Oath of Nissa

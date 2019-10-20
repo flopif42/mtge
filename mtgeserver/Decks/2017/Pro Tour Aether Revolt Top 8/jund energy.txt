@@ -1,0 +1,26 @@
+-- Martin Juza
+-- jund energy.txt
+----------------------------
+4 Aether Hub
+4 Blooming Marsh
+1 Cinder Glade
+4 Forest
+4 Game Trail
+2 Mountain
+1 Swamp
+--
+4 Greenbelt Rampager
+4 Longtusk Cub
+1 Rishkar, Peema Renegade
+4 Scrapheap Scrounger
+2 Tireless Tracker
+4 Voltaic Brawler
+--
+4 Attune with Aether
+2 Harnessed Lightning
+2 Shock
+4 Unlicensed Disintegration
+3 Chandra, Torch of Defiance
+2 Fleetwheel Cruiser
+3 Heart of Kiran
+1 Nissa, Vital Force

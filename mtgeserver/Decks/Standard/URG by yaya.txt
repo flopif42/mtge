@@ -1,0 +1,29 @@
+-- Shota Yasooka
+-- URG standard
+-----------------------------------------------------
+-- Creatures (10)
+3 Shielded Aether Thief
+4 Rogue Refiner
+3 Torrential Gearhulk
+
+-- Spells (25)
+4 Attune with Aether
+1 Shock
+3 Anticipate
+4 Harnessed Lightning
+2 Incendiary Flow
+2 Negate
+4 Disallow
+4 Glimmer of Genius
+
+-- Artifacts (4)
+4 Dynavolt Tower
+
+-- Lands (22)
+4 Aether Hub
+4 Botanical Sanctum
+5 Forest
+2 Island
+2 Lumbering Falls
+1 Mountain
+4 Spirebluff Canal

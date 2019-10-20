@@ -1,0 +1,21 @@
+9 Island
+8 Plains
+4 Adarkar Wastes
+4 Rishadan Port
+--
+3 Counterspell
+3 Enlightened Tutor
+4 Frantic Search
+1 Mystical Tutor
+4 Replenish
+1 Wrath of God
+--
+4 Attunement
+1 Energy Field
+4 Opalescence
+3 Parallax Tide
+4 Parallax Wave
+1 Seal of Cleansing
+1 Seal of Removal
+--
+1 Sky Diamond

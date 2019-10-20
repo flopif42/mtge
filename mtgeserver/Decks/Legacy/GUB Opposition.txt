@@ -1,0 +1,28 @@
+-- 20 LANDS
+2 Bayou
+2 Dryad Arbor
+1 Forest
+3 Gaea's Cradle
+4 Misty Rainforest
+3 Tropical Island
+1 Underground Sea
+4 Verdant Catacombs
+
+-- 23 CREATURES
+3 Baleful Strix
+4 Coiling Oracle
+1 Craterhoof Behemoth
+3 Deathrite Shaman
+4 Elvish Visionary
+4 Noble Hierarch
+3 Shardless Agent
+1 Wirewood Symbiote
+
+-- 11 INSTANTS and SORC.
+3 Abrupt Decay
+4 Mind Peel
+4 Green Sun's Zenith
+
+-- 6 OTHER SPELLS
+3 Garruk Wildspeaker
+3 Opposition

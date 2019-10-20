@@ -1,0 +1,353 @@
+-------------------------------------------------------------------------------
+-- Lands nonbasic (12)
+-------------------------------------------------------------------------------
+Blasted Landscape
+Drifting Meadow
+Gaea's Cradle
+Phyrexian Tower
+Polluted Mire
+Remote Isle
+Serra's Sanctum
+Shivan Gorge
+Slippery Karst
+Smoldering Crater
+Thran Quarry
+Tolarian Academy
+
+-------------------------------------------------------------------------------
+-- Enchantments (101)
+-------------------------------------------------------------------------------
+Absolute Grace
+Absolute Law
+Abundance
+Angelic Chorus
+Antagonism
+Arcane Laboratory
+Attunement
+Back to Basics
+Bedlam
+Bereavement
+Blanchwood Armor
+Bravado
+Brilliant Halo
+Bulwark
+Carpet of Flowers
+Cloak of Mists
+Confiscate
+Contamination
+Crosswinds
+Darkest Hour
+Defensive Formation
+Destructive Urge
+Despondency
+Diabolic Servitude
+Discordant Dirge
+Douse
+Energy Field
+Exploration
+Fecundity
+Fertile Ground
+Fiery Mantle
+Fortitude
+Gaea's Embrace
+Glorious Anthem
+Greater Good
+Greener Pastures
+Hermetic Study
+Hidden Ancients
+Hidden Guerrillas
+Hidden Herd
+Hidden Predators
+Hidden Spider
+Hidden Stag
+Launch
+Lilting Refrain
+Lingering Mirage
+Lurking Evil
+Midsummer Revel
+No Rest for the Wicked
+Opal Acrolith
+Opal Archangel
+Opal Caryatid
+Opal Gargoyle
+Opal Titan
+Oppression
+Pacifism
+Parasitic Bond
+Pariah
+Pendrell Flux
+Pestilence
+Planar Void
+Power Taint
+Presence of the Master
+Recantation
+Reflexes
+Remembrance
+Retaliation
+Rumbling Crescendo
+Rune of Protection: Artifacts
+Rune of Protection: Black
+Rune of Protection: Blue
+Rune of Protection: Green
+Rune of Protection: Lands
+Rune of Protection: Red
+Rune of Protection: White
+Scald
+Serra's Embrace
+Serra's Hymn
+Serra's Liturgy
+Shiv's Embrace
+Sicken
+Sneak Attack
+Sporogenesis
+Spreading Algae
+Sulfuric Vapors
+Tainted Æther
+Telepathy
+Torch Song
+Vampiric Embrace
+Veil of Birds
+Veiled Apparition
+Veiled Crocodile
+Veiled Sentry
+Veiled Serpent
+Venomous Fangs
+Vernal Bloom
+Vile Requiem
+War Dance
+Worship
+Yawgmoth's Edict
+Zephid's Embrace
+
+-------------------------------------------------------------------------------
+-- Artifacts non creature (25)
+-------------------------------------------------------------------------------
+Barrin's Codex
+Chimeric Staff
+Citanul Flute
+Claws of Gix
+Crystal Chimes
+Dragon Blood
+Endoskeleton
+Fluctuator
+Grafted Skullcap
+Lifeline
+Lotus Blossom
+Metrognome
+Mishra's Helix
+Noetic Scales
+Phyrexian Processor
+Pit Trap
+Purging Scythe
+Smokestack
+Temporal Aperture
+Thran Turbine
+Umbilicus
+Urza's Armor
+Voltaic Key
+Whetstone
+Worn Powerstone
+
+-------------------------------------------------------------------------------
+-- Sorceries (34)
+-------------------------------------------------------------------------------
+Acidic Soil
+Arc Lightning
+Befoul
+Catastrophe
+Corrupt
+Disorder
+Duress
+Exhaustion
+Exhume
+Gaea's Bounty
+Gamble
+Goblin Offensive
+Hush
+Ill-Gotten Gains
+Jagged Lightning
+Lay Waste
+Meltdown
+Path of Peace
+Persecute
+Planar Birth
+Rain of Salt
+Raze
+Rejuvenate
+Reprocess
+Show and Tell
+Steam Blast
+Time Spiral
+Titania's Boon
+Unnerve
+Victimize
+Whirlwind
+Wildfire
+Windfall
+Yawgmoth's Will
+
+-------------------------------------------------------------------------------
+-- Instants (33)
+-------------------------------------------------------------------------------
+Annul
+Brand
+Breach
+Catalog
+Clear
+Congregate
+Curfew
+Dark Ritual
+Disenchant
+Enchantment Alteration
+Expunge
+Falter
+Fault Line
+Headlong Rush
+Healing Salve
+Heat Ray
+Hibernation
+Humble
+Lull
+Outmaneuver
+Power Sink
+Rain of Filth
+Redeem
+Rescind
+Rewind
+Scrap
+Shower of Sparks
+Stroke of Genius
+Sunder
+Symbiosis
+Tolarian Winds
+Turnabout
+Waylay
+
+-------------------------------------------------------------------------------
+-- Creatures (125)
+-------------------------------------------------------------------------------
+Abyssal Horror
+Academy Researchers
+Acridian
+Albino Troll
+Anaconda
+Angelic Page
+Argothian Elder
+Argothian Enchantress
+Argothian Swine
+Argothian Wurm
+Barrin, Master Wizard
+Blanchwood Treefolk
+Blood Vassal
+Bog Raiders
+Bull Hippo
+Cackling Fiend
+Carrion Beetles
+Cathodion
+Cave Tiger
+Child of Gaea
+Citanul Centaurs
+Citanul Hierophants
+Copper Gnomes
+Coral Merfolk
+Cradle Guard
+Crater Hellion
+Crazed Skirge
+Dark Hatchling
+Disciple of Grace
+Disciple of Law
+Disruptive Student
+Drifting Djinn
+Dromosaur
+Eastern Paladin
+Electryte
+Elite Archers
+Elvish Herder
+Elvish Lyrist
+Endless Wurm
+Faith Healer
+Fire Ants
+Flesh Reaver
+Fog Bank
+Gilded Drake
+Goblin Cadets
+Goblin Lackey
+Goblin Matron
+Goblin Patrol
+Goblin Raider
+Goblin Spelunkers
+Goblin War Buggy
+Gorilla Warrior
+Great Whale
+Guma
+Hawkeater Moth
+Herald of Serra
+Hollow Dogs
+Hopping Automaton
+Horseshoe Crab
+Imaginary Pet
+Intrepid Hero
+Karn, Silver Golem
+Lightning Dragon
+Looming Shade
+Mana Leech
+Mobile Fort
+Monk Idealist
+Monk Realist
+Morphling
+Okk
+Order of Yawgmoth
+Pegasus Charger
+Pendrell Drake
+Peregrine Drake
+Phyrexian Colossus
+Phyrexian Ghoul
+Pouncing Jaguar
+Priest of Gix
+Priest of Titania
+Ravenous Skirge
+Reclusive Wight
+Retromancer
+Sanctum Custodian
+Sanctum Guardian
+Sandbar Merfolk
+Sandbar Serpent
+Sanguine Guard
+Scoria Wurm
+Seasoned Marshal
+Serra Avatar
+Serra Zealot
+Shimmering Barrier
+Shivan Hellkite
+Shivan Raptor
+Silent Attendant
+Skirge Familiar
+Skittering Skirge
+Sleeper Agent
+Somnophore
+Songstitcher
+Soul Sculptor
+Spined Fluke
+Spire Owl
+Stern Proctor
+Thundering Giant
+Titania's Chosen
+Treefolk Seedlings
+Treetop Rangers
+Unworthy Dead
+Vebulid
+Viashino Outrider
+Viashino Runner
+Viashino Sandswimmer
+Viashino Weaponsmith
+Voice of Grace
+Voice of Law
+Vug Lizard
+Wall of Junk
+Western Paladin
+Wild Dogs
+Winding Wurm
+Wirecat
+Witch Engine
+Wizard Mentor
+Zephid

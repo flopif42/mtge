@@ -1,0 +1,35 @@
+-- slivers.txt
+-- 19 LANDS
+2 Cavern of Souls
+2 City of Brass
+4 Flooded Strand
+1 Island
+3 Misty Rainforest
+4 Mutavault
+1 Plains
+1 Tropical Island
+2 Tundra
+1 Underground Sea
+
+-- 23 CREATURES
+4 Crystalline Sliver
+4 Galerider Sliver
+3 Hibernation Sliver
+3 Muscle Sliver
+1 Phantasmal Image
+4 Predatory Sliver
+4 Sinew Sliver
+	
+-- 11 INSTANTS and SORC.
+3 Brainstorm
+3 Daze
+3 Mana Leak
+4 Force of Will
+4 Counterspell
+1 Swords to Plowshares
+
+-- 7 OTHER SPELLS
+1 Mox Diamond
+2 Sylvan Library
+2 Impulse
+4 Aether Vial

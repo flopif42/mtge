@@ -1,0 +1,49 @@
+-- ****************************************
+-- * punishing_knight.txt                 *
+-- * 2015 Magic Online Championship       *
+-- * Alexander Ivanov                     *
+-- ****************************************
+
+-- *** Planeswalker (3) ***
+3 Liliana of the Veil
+
+-- *** Creature (11) ***
+4 Dark Confidant
+1 Dryad Arbor
+1 Gaddock Teeg
+4 Knight of the Reliquary
+1 Scavenging Ooze
+
+-- *** Sorcery (4) ***
+2 Green Sun's Zenith
+2 Life from the Loam
+
+-- *** Instant (7) ***
+4 Abrupt Decay
+3 Punishing Fire
+
+-- *** Artifact (8) ***
+4 Chalice of the Void
+4 Mox Diamond
+
+-- *** Enchantment (1) ***
+1 Sylvan Library
+
+-- *** Land (26) ***
+1 Badlands
+1 Barren Moor
+2 Bayou
+1 Dark Depths
+1 Forest
+3 Grove of the Burnwillows
+1 Maze of Ith
+1 Karakas
+1 Savannah
+1 Scrubland
+1 Taiga
+1 Thespian's Stage
+1 Tranquil Thicket
+4 Verdant Catacombs
+4 Wasteland
+1 Windswept Heath
+1 Wooded Foothills

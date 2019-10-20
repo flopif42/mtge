@@ -1,0 +1,32 @@
+-- 20 LANDS
+1 Dryad Arbor
+8 Forest
+1 Karakas
+2 Savannah
+3 Serra's Sanctum
+4 Windswept Heath
+1 Wooded Foothills
+
+-- 6 CREATURES
+4 Argothian Enchantress
+1 Eidolon of Blossoms
+1 Emrakul, the Aeons Torn
+
+-- 4 INSTANTS and SORC.
+4 Green Sun's Zenith
+
+-- 30 OTHER SPELLS
+1 Banishing Light
+2 Carpet of Flowers
+3 Elephant Grass
+4 Enchantress's Presence
+1 Helm of Obedience
+2 Mirri's Guile
+2 Rest in Peace
+3 Solitary Confinement
+1 Sphere of Safety
+1 Sterling Grove
+1 Suppression Field
+1 Sylvan Library
+4 Utopia Sprawl
+4 Wild Growth

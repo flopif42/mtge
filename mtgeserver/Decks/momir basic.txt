@@ -1,0 +1,6 @@
+-- Momir Basic
+20 Mountain
+20 Swamp
+8 Forest
+6 Island
+6 Plains

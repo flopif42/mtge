@@ -1,0 +1,31 @@
+-- GP Manchester 2016
+-- Oscar Christensen (Top 8)
+-- gw_tokens.txt
+
+-- Planeswalker (8)
+4 Nissa, Voice of Zendikar
+4 Gideon, Ally of Zendikar
+
+-- Creature (14)
+4 Hangarback Walker
+4 Sylvan Advocate
+4 Archangel Avacyn
+2 Den Protector
+
+-- Sorcery (3)
+2 Declaration in Stone
+1 Tragic Arrogance
+
+-- Instant (6)
+4 Dromoka's Command
+2 Secure the Wastes
+
+-- Enchantment (4)
+4 Oath of Nissa
+
+-- Land (25)
+4 Fortified Village
+4 Canopy Vista
+3 Westvale Abbey
+7 Forest
+7 Plains

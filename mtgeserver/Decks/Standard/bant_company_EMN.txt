@@ -1,0 +1,25 @@
+-- bant_company_EMN.txt
+
+-- 25 LANDS
+3 Canopy Vista
+4 Evolving Wilds
+3 Forest
+1 Island
+2 Lumbering Falls
+5 Plains
+4 Prairie Stream
+3 Yavimaya Coast
+
+-- 27 CREATURES
+2 Archangel Avacyn
+3 Duskwatch Recruiter
+4 Reflector Mage
+4 Selfless Spirit
+4 Spell Queller
+4 Sylvan Advocate
+3 Thalia, Heretic Cathar
+3 Tireless Tracker
+
+-- 8 INSTANTS and SORC.
+4 Collected Company
+4 Dromoka's Command

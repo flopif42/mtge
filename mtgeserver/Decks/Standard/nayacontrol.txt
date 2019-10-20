@@ -1,0 +1,30 @@
+-- nayacontrol
+-- 26 Lands
+1 Battlefield Forge
+4 Canopy Vista
+3 Cinder Glade
+4 Evolving Wilds
+5 Forest
+1 Fortified Village
+1 Mountain
+2 Needle Spires
+5 Plains
+
+-- 19 CREATURES
+4 Archangel Avacyn
+2 Dragonlord Atarka
+1 Elvish Visionary
+1 Linvala, the Preserver
+3 Nissa, Vastwood Seer
+4 Sylvan Advocate
+4 Tireless Tracker
+	
+-- 1 INSTANTS and SORC.
+1 Radiant Flames
+
+-- 14 OTHER SPELLS
+1 Chandra, Flamecaller
+3 Nahiri, the Harbinger
+4 Oath of Nissa
+2 Silkwrap
+4 Stasis Snare

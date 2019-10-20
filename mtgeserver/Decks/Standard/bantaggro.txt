@@ -1,0 +1,31 @@
+-- GP Manchester 2016 Top 8
+-- Julien Henry
+-- bantaggro.txt
+
+-- lands
+3 Canopy Vista
+1 Caves of Koilos
+4 Evolving Wilds
+3 Forest
+1 Island
+2 Lumbering Falls
+4 Plains
+3 Prairie Stream
+1 Wastes
+4 Yavimaya Coast
+
+-- 26 CREATURES
+1 Archangel Avacyn
+4 Duskwatch Recruiter
+3 Eldrazi Displacer
+4 Eldrazi Skyspawner
+3 Jace, Vryn's Prodigy
+1 Nissa, Vastwood Seer
+4 Reflector Mage
+4 Sylvan Advocate
+2 Tireless Tracker
+
+-- 8 INSTANTS and SORC.
+4 Collected Company
+2 Declaration in Stone
+2 Dromoka's Command

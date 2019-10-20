@@ -1,0 +1,26 @@
+-- 2017 Pro Tour Aether Revolt
+-- Top 8
+-------------------------------
+2 Aether Hub
+4 Concealed Courtyard
+1 Foreboding Ruins
+4 Inspiring Vantage
+3 Mountain
+1 Needle Spires
+3 Plains
+1 Smoldering Marsh
+4 Spire of Industry
+-------------------------------
+3 Inventor's Apprentice
+2 Pia Nalaar
+4 Scrapheap Scrounger
+1 Thalia, Heretic Cathar
+4 Thraben Inspector
+4 Toolcraft Exemplar
+4 Veteran Motorist
+-------------------------------
+2 Shock
+4 Unlicensed Disintegration
+2 Aethersphere Harvester
+3 Gideon, Ally of Zendikar
+4 Heart of Kiran
